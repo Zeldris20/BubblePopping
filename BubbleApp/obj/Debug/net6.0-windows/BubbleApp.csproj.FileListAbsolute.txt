@@ -1,0 +1,16 @@
+C:\Users\Zeldris\source\repos\BubbleApp\BubbleApp\bin\Debug\net6.0-windows\BubbleApp.exe
+C:\Users\Zeldris\source\repos\BubbleApp\BubbleApp\bin\Debug\net6.0-windows\BubbleApp.deps.json
+C:\Users\Zeldris\source\repos\BubbleApp\BubbleApp\bin\Debug\net6.0-windows\BubbleApp.runtimeconfig.json
+C:\Users\Zeldris\source\repos\BubbleApp\BubbleApp\bin\Debug\net6.0-windows\BubbleApp.dll
+C:\Users\Zeldris\source\repos\BubbleApp\BubbleApp\bin\Debug\net6.0-windows\BubbleApp.pdb
+C:\Users\Zeldris\source\repos\BubbleApp\BubbleApp\obj\Debug\net6.0-windows\BubbleApp.Form1.resources
+C:\Users\Zeldris\source\repos\BubbleApp\BubbleApp\obj\Debug\net6.0-windows\BubbleApp.csproj.GenerateResource.cache
+C:\Users\Zeldris\source\repos\BubbleApp\BubbleApp\obj\Debug\net6.0-windows\BubbleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeldris\source\repos\BubbleApp\BubbleApp\obj\Debug\net6.0-windows\BubbleApp.AssemblyInfoInputs.cache
+C:\Users\Zeldris\source\repos\BubbleApp\BubbleApp\obj\Debug\net6.0-windows\BubbleApp.AssemblyInfo.cs
+C:\Users\Zeldris\source\repos\BubbleApp\BubbleApp\obj\Debug\net6.0-windows\BubbleApp.csproj.CoreCompileInputs.cache
+C:\Users\Zeldris\source\repos\BubbleApp\BubbleApp\obj\Debug\net6.0-windows\BubbleApp.dll
+C:\Users\Zeldris\source\repos\BubbleApp\BubbleApp\obj\Debug\net6.0-windows\refint\BubbleApp.dll
+C:\Users\Zeldris\source\repos\BubbleApp\BubbleApp\obj\Debug\net6.0-windows\BubbleApp.pdb
+C:\Users\Zeldris\source\repos\BubbleApp\BubbleApp\obj\Debug\net6.0-windows\BubbleApp.genruntimeconfig.cache
+C:\Users\Zeldris\source\repos\BubbleApp\BubbleApp\obj\Debug\net6.0-windows\ref\BubbleApp.dll
